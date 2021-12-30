@@ -3,8 +3,8 @@
 |--script
 |   |--sign.py: key component communicate with NCU part-time sign page.
 |--self_ssl **ADD CERT HERE**
-|   |--cert.pem     (renew every 10 year next:2030)
-|   |--private.key  (renew every 10 year next:2030)
+|   |--cert.pem     
+|   |--private.key  
 |--signbotenv: python venv
 |--tools/set_webhook.sh: bash script on setting webhook's token and url **TOKEN TOBE SET**
 |--config.ini: Token from Telegram for main3.py **TOKEN TOBE SET**
