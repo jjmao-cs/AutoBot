@@ -23,3 +23,6 @@ Port = 443
 - self-sign-certificate: https://github.com/python-telegram-bot/python-telegram-bot/wiki/Webhooks#a-ssl-certificate
 - python-venv & signbot.service: https://www.digitalocean.com/community/tutorials/how-to-serve-flask-applications-with-gunicorn-and-nginx-on-ubuntu-20-04
 - telegram-api: python-telegram-bot
+
+## Slides
+[Google Presentation Link](https://docs.google.com/presentation/d/11K_AuUcv6CDc0Dbjez-4FMPWeDO74RaGnJGsMM6S9-8/edit?usp=sharing)
